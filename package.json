@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "netlify-plugin-hashfiles": "^4.0.2"
+  },
+  "devDependencies": {
+    "netlify-plugin-minify-html": "^0.3.1"
+  }
+}
