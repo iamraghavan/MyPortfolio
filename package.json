@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "firebase": "^9.9.4",
     "netlify-plugin-hashfiles": "^4.0.2"
   },
   "devDependencies": {
