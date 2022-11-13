@@ -188,7 +188,7 @@ if (isset($_SESSION['login_button'])) {
                   <li><a href="blog.html">Blog</a></li>
                   <li><a href="contact.html">Contact</a></li>
                </ul>
-               
+               <br>
                <p class="social-icon">
                   <a href="#"><i class="fab fa-facebook"></i></a>
                   <a href="#"><i class="fab fa-twitter"></i></a>
