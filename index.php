@@ -79,6 +79,7 @@ if (isset($_SESSION['login_button'])) {
     content="Full Stack Developer for hire, specialising in development of custom websites and web applications in JavaScript, React.js, Next.js, Node.js, &amp; more.">
     <meta name=twitter:image content=https://firebasestorage.googleapis.com/v0/b/portfolio-4bf1c.appspot.com/o/portfolioAssets%2Fimages%2FDSC02258.JPG?alt=media&token=cd2fd15a-8a5f-4cdc-8945-64bcb96b6a21>
     <meta name=twitter:image:alt content=raghava>
+<<<<<<< HEAD:index.php
     <script>!function (e, t, a, n) { e[n] = e[n] || [], e[n].push({ "gtm.start": (new Date).getTime(), event: "gtm.js" }); e = t.getElementsByTagName(a)[0], n = t.createElement(a); n.async = !0, n.src = "https://www.googletagmanager.com/gtm.js?id=GTM-P737K66", e.parentNode.insertBefore(n, e) }(window, document, "script", "dataLayer")</script>
        <script src="https://www.googleoptimize.com/optimize.js?id=OPT-KXBLQTT"></script>
       
@@ -129,6 +130,9 @@ if (isset($_SESSION['login_button'])) {
       <!--  -->
 
 
+=======
+      
+>>>>>>> 9f53d947ca6cba7fbdf83f9090fd820cf04f3061:index.html
       <!--Favicons-->
       <link rel="shortcut icon" href="images/favicon.png">
       <!--Page Title-->
@@ -143,6 +147,7 @@ if (isset($_SESSION['login_button'])) {
       <link rel="stylesheet" href="./css/flexslider.css">
       <!--Main Styles Css-->
       <link rel="stylesheet" href="./css/style.css">
+<<<<<<< HEAD:index.php
 
       
 
@@ -158,6 +163,53 @@ if (isset($_SESSION['login_button'])) {
     <!-- initialize the SDK after all desired features are loaded -->
 
     
+=======
+      
+       <script>!function (e, t, a, n) { e[n] = e[n] || [], e[n].push({ "gtm.start": (new Date).getTime(), event: "gtm.js" }); e = t.getElementsByTagName(a)[0], n = t.createElement(a); n.async = !0, n.src = "https://www.googletagmanager.com/gtm.js?id=GTM-P737K66", e.parentNode.insertBefore(n, e) }(window, document, "script", "dataLayer")</script>
+       <script src="https://www.googleoptimize.com/optimize.js?id=OPT-KXBLQTT"></script>
+      
+          <script type="application/ld+json">
+    {
+        "@context": "http://schema.org/",
+        "@type": "WebSite",
+        "url": "https://anburaghavan.netlify.app/",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://anburaghavan.netlify.app/{search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+      
+     <script type="application/ld+json">
+{
+	"@context": "http://schema.org/",
+	"@type": "Person",
+	"name": "Anbu Raghavan",
+	"image": "https://firebasestorage.googleapis.com/v0/b/portfolio-4bf1c.appspot.com/o/portfolioAssets%2Fimages%2FIMG_3547.jpg?alt=media&token=dd4669ae-9238-41e7-a6d5-373651b9d945",
+	"url": "https://anburaghavan.netlify.app/",
+	"jobTitle": "Entrepreneur & Full Stack Developer",
+	"worksFor": {
+		"@type": "Organization",
+		"name": "Jeeva Industries"
+	},
+	,
+	"address": {
+		"@type": "PostalAddress",
+		"streetAddress": "1ST FLOOR - PLOT NO 19 G1 THAMARAI FLATS, 3RD STREET, J.C. NAGAR, URAPAKKAM",
+		"addressLocality": "CHENNAI",
+		"addressRegion": "TAMIL NADU",
+		"postalCode": "603210",
+		"addressCountry": "India"
+	},
+	"sameAs": ["https://www.facebook.com/iraghavanofficial/", "https://www.instagram.com/iam.raghavan/", "https://www.linkedin.com/in/anburaghavan/", "https://twitter.com/iraghavan_ceo"]
+}
+</script>
+      
+      
+      
+      
+>>>>>>> 9f53d947ca6cba7fbdf83f9090fd820cf04f3061:index.html
    </head>
    <body>
       
@@ -264,7 +316,7 @@ if (isset($_SESSION['login_button'])) {
                </ul>
                <!-- Slider -->
                <ul class="slides">
-                  <li style="background-image: url(images/DSC02399.JPG);">
+                  <li style="background-image: url(https://firebasestorage.googleapis.com/v0/b/portfolio-4bf1c.appspot.com/o/portfolioAssets%2Fimages%2FDSC02399.JPG?alt=media&token=7fd9775f-7bb5-4876-9a81-260dce7b3bc2);">
                      <div class="overlay-gradient"></div>
                      <div class="container">
                         <div class="col-md-8 js-fullheight slider-text">
@@ -347,7 +399,7 @@ if (isset($_SESSION['login_button'])) {
                         </div>
 
                         <div class="col-md-6">
-                           <div class="post-image" style="background-image: url(images/DSC02262.JPG);"></div>
+                           <div class="post-image" style="background-image: url(https://firebasestorage.googleapis.com/v0/b/portfolio-4bf1c.appspot.com/o/portfolioAssets%2Fimages%2FIMG_3547.jpg?alt=media&token=dd4669ae-9238-41e7-a6d5-373651b9d945);"></div>
                            <!-- <div class="display-tc">
                               <div class="desc">
                                  <h3>My skill</h3>
@@ -952,9 +1004,18 @@ if (isset($_SESSION['login_button'])) {
       <script src="js/typed.min.js"></script>
       <!-- Custom JS -->
       <script src="js/custom.js"></script>
+<<<<<<< HEAD:index.php
 
       <script src="./js/Sliderfirebase.js"></script>
 
+=======
+      
+      
+
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P737K66" height=0 width=0
+            style=display:none;visibility:hidden></iframe></noscript>
+      
+>>>>>>> 9f53d947ca6cba7fbdf83f9090fd820cf04f3061:index.html
    </body>
 
    
